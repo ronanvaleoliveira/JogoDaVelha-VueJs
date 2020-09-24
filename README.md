@@ -18,6 +18,6 @@ npm run serve
 
 ## Guia de leitura
 
-https://br.vuejs.org/
-https://br.vuejs.org/v2/guide/
-https://vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/#:~:text=Ele%20te%20deixa%20livre%20para,projetos%20maiores%20e%20mais%20complexos.
+* https://br.vuejs.org/
+* https://br.vuejs.org/v2/guide/
+* https://vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/#:~:text=Ele%20te%20deixa%20livre%20para,projetos%20maiores%20e%20mais%20complexos.
