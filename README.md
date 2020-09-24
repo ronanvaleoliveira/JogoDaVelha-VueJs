@@ -14,7 +14,7 @@ npm install
 npm run serve
 ```
 
-![chrome-capture2](https://user-images.githubusercontent.com/13223097/94148988-b45aae00-fe4d-11ea-8cf5-294ccd71e730.gif)
+![chrome-capture (1)](https://user-images.githubusercontent.com/13223097/94149661-8c1f7f00-fe4e-11ea-8a83-9e0337cd13a1.gif)
 
 ## Guia de leitura
 
